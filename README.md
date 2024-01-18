@@ -3,6 +3,10 @@
 
 A. 
 
+run this command first
+
+npm install
+
 npm start
 
 this code sets up a basic Express server with two endpoints to handle listing and creating items. It demonstrates a simple RESTful API for managing a collection of items with basic error handling.
